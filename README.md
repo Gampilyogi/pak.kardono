@@ -1,2 +1,0 @@
-# pak.kardono
-pak kardono
